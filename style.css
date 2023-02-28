@@ -1,0 +1,107 @@
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: white;
+    left: 100px;
+    text-align: center;
+    font-size: 60px;
+}
+
+img {
+    width: 280px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 10px;
+  }
+
+.img2{
+    width: 280px; 
+    border-radius: 0px;
+    float: right;
+    
+}
+
+.img3{
+    width: 450px;
+    height: 280px; 
+    border-radius: 0px;
+
+    float: left;
+    position: relative;
+    top: 50px; 
+    left: -285px;
+
+}
+
+.img4{
+    width: 350px;
+    height: 350px; 
+    border-radius: 0px;
+    float: left;
+    position: relative;
+
+    top: 100px; 
+    left: -200px;
+}
+
+video {
+    width: 400px;
+    float: center;
+
+    top: -50px; 
+    left: -100px;
+}
+
+.highlight{
+background-color: brown;
+}
+
+.division{
+    background-color: bisque;
+}
+
+.division2{
+    background-color: bisque;
+    height: 10px; 
+}
+
+.punto{
+    color: bisque;
+}
+
+.punto2{
+    color: bisque;
+}
+
+.product {
+    background-color: rgb(196, 157, 157);
+    width: 800px;
+    height: 165px;
+    margin: auto;
+    padding: 3em 0;
+  }
+
+.quote{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: rgb(161, 113, 113);
+    color: rgb(100, 32, 32);
+    text-align: center;
+    font-size: 30px;
+}
+
+
+button{
+    position: center;
+}
+
+/*
+
+Cargar el boton de AJAX para una imagen
+
+
+
+*/
+
